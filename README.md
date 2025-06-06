@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ctrlztn
-- 👀 I’m interested in cybersecurity, wed development, and exploring various programming languages.
+- 👀 I’m interested in cybersecurity, web development, and exploring various programming languages.
 - 🌱 I’m currently learning python
 - 😄 Pronouns: she/her
 
